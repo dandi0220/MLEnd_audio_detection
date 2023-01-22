@@ -12,5 +12,8 @@ I have built a machine learning model to classify hum and whistles of 8 iconic s
 * Let it go (Frozen) https://youtu.be/L0MK7qz13bU?t=126
 
 # Dataset
-As students of Queen Mary University of London, we have created approximately 15 seconds audio segments of these 8 songs. 
+As students of Queen Mary University of London, we have created approximately 15 seconds audio segments of these 8 songs. In my project, I have used 200 audio segments for each song, half of them is humming, and half of them is whistles.
+
+I have uploaded the songs in my google drive cloud priorly. 
+
 
